@@ -1,0 +1,23 @@
+
+Getting Started with Jupyter notebooks:
+
+Python is a programming language. It is arguably the most popular language for scientific (including data science) applications at the moment. Jupyter notebooks are a convenient way to write and share Python code in an especially user-friendly way. 
+
+This class will include some tutorials and homework exercises using Jupyter notebooks. You have two options for running the notebooks:
+1. Click on the Binder link on the GitHub page. This will open up the notebooks in your browser without having to install anything. 
+2. (Recommended) Install Jupyter following the instructions below. This is recommended because it will allow you to save your work! You will have to use Python (and probably Jupyter) in your data science education/career anyway, so you may as well get started with it properly!
+
+
+## INSTALLATION ##
+
+Here are instructions for installing Jupyter notebooks, along with several necessary packages for data science applications in Python.
+
+1. Download and install Anaconda from this page:
+https://www.anaconda.com/distribution/
+Download the Python 3 version.
+
+Remark: Besides Jupyter, Anaconda also comes with some other useful data science/development software, such as R. It also installs several useful data science packages into Python automatically. \
+
+2. Open Anaconda and launch Jupyter notebook. 
+
+3. To use a notebook that I post to GitHub, download it and then open it from Jupyter. If you are new to Python, I recommend running through the IntroductionToPython notebook first.
